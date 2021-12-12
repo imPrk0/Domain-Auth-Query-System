@@ -20,12 +20,7 @@ But if you have a good idea, you can notify me by email: [prk@prk123.com](mailto
 
 Because I am a Chinese, my instructional videos are told in Chinese language. The video was uploaded to People's Republic of China’s **[Bilibili](https://www.bilibili.com/ "bilibili")** and US Google’s **[YouTube](https://www.youtube.com/ "YouTube")**. To view, please click on the link below to view!
 
-
-
-Bilibili: [https://www.bilibili.com/video/BV18R4y1x7LA](https://www.bilibili.com/video/BV18R4y1x7LA "Click Me")
-
+Bilibili: [https://www.bilibili.com/video/BV18R4y1x7LA](https://www.bilibili.com/video/BV18R4y1x7LA "Click Me")  
 YouTube: [https://youtu.be/iXwBLRoCFAo](https://youtu.be/iXwBLRoCFAo "Click Me")
-
-
 
 &copy;&nbsp;2021&nbsp;Powered&nbsp;by&nbsp;[Prk](https://www.cprk.cc "Prk")&nbsp;!
