@@ -8,7 +8,7 @@
 
 Because the project is currently only used for teaching, there are not many functions. If you can wait, then please wait for the development of the official version. If you can't wait, edit the source code yourself if you have the technology and use the `npm run build` command to release and build!
 
-Because Vue Router History Mode is used, you need to configure your server when building! Please refer to **(Vue Router Official Document](https://router.vuejs.org/guide/essentials/history-mode.html#example-server-configurations "Click Me")**!
+Because Vue Router History Mode is used, you need to configure your server when building! Please refer to **[Vue Router Official Document](https://router.vuejs.org/guide/essentials/history-mode.html#example-server-configurations "Click Me")**!
 
 ## 3. What will be the function later ?
 
